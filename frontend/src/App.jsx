@@ -14,6 +14,7 @@ import {
   Search,
   Filter,
   MoreHorizontal,
+  TrendingUp,
   ChevronRight,
   ExternalLink
 } from 'lucide-react';
